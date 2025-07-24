@@ -1,1 +1,2 @@
 # Student-marks-analyzer
+A simple Python-based CLI (Command Line Interface) application that allows users to input student names and their corresponding marks. The program then analyzes and displays useful statistics such as the average score, highest and lowest scores, and a detailed marks report. It’s perfect for beginners learning Python basics like dictionaries, loops, error handling, and list comprehensions.
